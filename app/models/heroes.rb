@@ -1,0 +1,2 @@
+class Heroes < ApplicationRecord
+end
